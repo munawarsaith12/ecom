@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Learn React",
+    "description": "Understand the fundamentals of React and build modern UIs."
+  },
+  {
+    "id": 2,
+    "title": "Master Next.js",
+    "description": "Learn server-side rendering and static site generation with Next.js."
+  },
+  {
+    "id": 3,
+    "title": "Explore Tailwind CSS",
+    "description": "Build beautiful responsive designs without writing custom CSS."
+  }
+]
